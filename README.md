@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, I'm Siddarth!</h1>
 
 <p align="center">
-  Software developer that likes to build things<br> I like <b>full stack web dev</b> and <b>machine learning</b><br> Majoring in Computer Engineering at <b>Rose-Hulman Insitute of Technology</b>
+  Software developer that likes to build things<br> Majoring in Computer Engineering at <b>Rose-Hulman Insitute of Technology</b>
 
 <div>
  <h3 align="center">here are some things i've messed with...</h3>
