@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, I'm Siddarth!</h1>
+<h1 align="center">Hi, I'm Siddarth!</h1>
 
 <p align="center">
   Software developer that likes to build things<br> Majoring in Computer Engineering at <b>Rose-Hulman Insitute of Technology</b>
