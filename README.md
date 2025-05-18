@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siddarth!</h1>
 
 <p align="center">
-  Software developer that likes to build things<br> Majoring in Computer Engineering at <b>Rose-Hulman Insitute of Technology</b>
+  Software developer that likes to build things<br> Majoring in Computer Engineering at <b>Rutgers University</b>
 
 <div>
  <h3 align="center">here are some things i've messed with...</h3>
